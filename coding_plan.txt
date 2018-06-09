@@ -1,0 +1,6 @@
+generate random person id list
+
+get positive and negtive image sequence
+
+do data augmentation
+
